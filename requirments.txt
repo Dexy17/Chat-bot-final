@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pymongo
+python-jose[cryptography]
+passlib[bcrypt]
+cryptography
+sentence-transformers
+fuzzywuzzy
+logging
+datetime 
+colorama
+tkinter
+indic-transliteration
+numpy
+os
+reportlab
+sci-kitlearn
