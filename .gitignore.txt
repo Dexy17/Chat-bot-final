@@ -1,0 +1,5 @@
+__pycache__
+main1.py
+.gitignore
+venv
+Redo_main/Redo/WiredTiger.lock
